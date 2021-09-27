@@ -5,7 +5,7 @@ import java.util.Map;
 
 
 public class UC1SnakeLadder {
-	final static int WINPOINT = 100;
+	
 
 	static Map<Integer, Integer> snake = new HashMap<Integer, Integer>();
 	static Map<Integer, Integer> ladder = new HashMap<Integer, Integer>();
